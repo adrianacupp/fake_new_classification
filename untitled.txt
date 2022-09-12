@@ -1,5 +1,0 @@
-Readme 
-
-Odelia - updates 12.9
-duplicated notebook (file: "odelia_notebook"): 
-Managed to lemmatize columns token_title + token_text BUT it's not perfect, misses many verbs >> need to do POS tagging first, opened new notebook "notebook_v2". Also, I think it's better to build a corpus after all, seems to be quicker that running apply on cells seperatly + makes life easier.
