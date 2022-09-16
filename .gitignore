@@ -4,3 +4,10 @@ df_cleaned.csv
 df_token.csv
 df_lemmatized.csv
 data/df_stopwords.csv
+*.ipynb
+odelia_notebook.ipynb
+*.icloud
+data/.DS_Store
+*.icloud
+*.ipynb
+*.icloud
