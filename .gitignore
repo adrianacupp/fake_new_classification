@@ -11,3 +11,5 @@ data/.DS_Store
 *.icloud
 *.ipynb
 *.icloud
+data/df_cleaned_nonan.csv
+data/df_pre_tok.csv
